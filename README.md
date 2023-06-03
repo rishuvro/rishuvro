@@ -73,3 +73,4 @@ Embedded Systems:
 - Raspberry Pi
 
 "And whoever relies upon Allah - then He is sufficient for him." - Quran 65:3
+
