@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishuvro.
 - 👀 I’m interested in Artificial Intelligence and Data.
-- 🌱 I’m currently learning c++ and machine language.
+- 🌱 I’m currently learning Deep Learning and machine language.
 - 💞️ I’m looking to collaborate on my skills :)
 - 📫 email : rakibul_islam@tutanota.com
 <!---
