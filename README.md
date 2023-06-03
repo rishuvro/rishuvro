@@ -7,13 +7,19 @@ I'm interested in Artificial Intelligence and Data Science. Currently, I'm learn
 
 ## Connect with me:
 
-- LinkedIn: [Rakibul Islam](https://www.linkedin.com/in/rakibul-islam-0911541a4/)
-- Facebook: [1amrakibulislam](https://www.facebook.com/1amrakibulislam/)
-- Twitter: [rishuvro](https://twitter.com/rishuvro)
-- Website: [Rakibul Islam](https://sites.google.com/view/rakibulislamshuvro)
-- ResearchGate: [Rakibul Islam](https://www.researchgate.net/profile/Rakibul-Islam-97)
-- GitHub: [rishuvro](https://github.com/rishuvro)
-- Timus Online: [Rakibul Islam](https://acm.timus.ru/author.aspx?id=315510)
+[![LinkedIn](linkedin-logo-image)](https://www.linkedin.com/in/rakibul-islam-0911541a4/) LinkedIn: Rakibul Islam
+
+[![Facebook](facebook-logo-image)](https://www.facebook.com/1amrakibulislam/) Facebook: 1amrakibulislam
+
+[![Twitter](twitter-logo-image)](https://twitter.com/rishuvro) Twitter: rishuvro
+
+[![Website](website-logo-image)](https://sites.google.com/view/rakibulislamshuvro) Website: Rakibul Islam
+
+[![ResearchGate](researchgate-logo-image)](https://www.researchgate.net/profile/Rakibul-Islam-97) ResearchGate: Rakibul Islam
+
+[![GitHub](github-logo-image)](https://github.com/rishuvro) GitHub: rishuvro
+
+[![Timus Online](timus-online-logo-image)](https://acm.timus.ru/author.aspx?id=315510) Timus Online: Rakibul Islam
 
 📫 Email: rakibulislamshuvro@gmail.com
 
@@ -73,4 +79,3 @@ Embedded Systems:
 - Raspberry Pi
 
 "And whoever relies upon Allah - then He is sufficient for him." - Quran 65:3
-
