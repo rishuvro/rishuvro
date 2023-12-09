@@ -1,47 +1,26 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Rakibul Islam's Profile</title>
-</head>
-<body>
-    <header>
-        <h1>Hi 👋, I'm Rakibul Islam</h1>
-        <h3>Peace be upon you. I am currently studying BSc in Computer Science and Engineering at Southeast University, Dhaka.</h3>
-    </header>
+# Hello, I'm Rakibul Islam 👋
 
-    <section>
-        <h2>🔭 I’m currently working on</h2>
-        <p>Product Recommendation System</p>
+### 🌟 Bringing Code to Life | Enthusiastic Learner | Tech Evangelist
 
-        <h2>🌱 I’m currently learning</h2>
-        <p>Deep Learning with Python and Machine Learning</p>
+![Profile views](https://komarev.com/ghpvc/?username=rishuvro&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rishuvro)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rishuvro?logo=twitter&style=for-the-badge)](https://twitter.com/rishuvro)
 
-        <h2>👨‍💻 All of my projects are available at</h2>
-        <p><a href="https://sites.google.com/view/rakibulislamshuvro" target="_blank">https://sites.google.com/view/rakibulislamshuvro</a></p>
+- 🔭 Currently crafting **Intelligent Product Recommendation Systems**
+- 🌱 Exploring **Deep Learning with Python** and mastering **Machine Learning**
+- 👨‍💻 Find my projects at [Rakibul Islam's Portfolio](https://sites.google.com/view/rakibulislamshuvro)
+- 📫 Connect with me: rakibulislamshuvro@gmail.com
+- ⚡ Fun fact: *A real-life coder ninja*
 
-        <h2>📫 How to reach me</h2>
-        <p>rakibulislamshuvro@gmail.com</p>
+### 🌐 Connect with me:
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/rishuvro)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/rakibul-islam-0911541a4)
+<!-- Add other social media icons and links -->
 
-        <h2>⚡ Fun fact</h2>
-        <p>A real-life nub.</p>
-    </section>
+### 🛠️ Languages and Tools:
+<!-- Insert your programming language and tool icons here -->
 
-    <section>
-        <h2 align="center">Connect with me:</h2>
-        <p align="center">
-            <a href="https://twitter.com/rishuvro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30"></a>
-        </p>
-    </section>
-
-    <section>
-        <h2 align="center">Languages and Tools:</h2>
-    </section>
-
-    <section>
-        <h2 align="center">GitHub Stats:</h2>
-        <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishuvro&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishuvro&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishuvro" alt="GitHub Streak" /></p>
-    </section>
-</body>
-</html>
+<!-- GitHub Stats -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishuvro&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rishuvro&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishuvro)
