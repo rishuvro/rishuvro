@@ -12,7 +12,7 @@ I'm a BSC student in CSE at Southeast University, Dhaka.
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishuvro&color=ff69b4" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rishuvro&color=blueviolet" alt="Profile views" />
 </p>
 
 
