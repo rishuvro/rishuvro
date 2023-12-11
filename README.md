@@ -74,11 +74,8 @@ Here are some of my projects:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishuvro&layout=compact&theme=dark" alt="Languages Used" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=rishuvro&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=rishuvro&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishuvro&theme=radical" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishuvro" alt="GitHub Streak" />
-</p>
-
 
 
