@@ -60,22 +60,25 @@ Here are some of my projects:
 
 <h3 align="center">📈 GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishuvro&theme=monokai" alt="rishuvro" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishuvro&theme=dracula" alt="rishuvro" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishuvro&theme=monokai" alt="rishuvro" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishuvro&theme=monokai" alt="rishuvro" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishuvro&theme=dracula" alt="rishuvro" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishuvro&theme=dracula" alt="rishuvro" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishuvro&theme=monokai" alt="rishuvro" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishuvro&theme=monokai" alt="rishuvro" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishuvro&theme=dracula" alt="rishuvro" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishuvro&theme=dracula" alt="rishuvro" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishuvro&layout=compact&theme=dark" alt="Languages Used" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=rishuvro&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=rishuvro&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=rishuvro&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishuvro&theme=radical" alt="GitHub Streak" />
 </p>
 
 
