@@ -4,15 +4,12 @@ I'm a BSC student in CSE at Southeast University, Dhaka. Welcome to my GitHub, w
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishuvro" alt="rishuvro" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishuvro&show_icons=true&theme=radical" alt="Rakibul Islam's GitHub Stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishuvro&show_icons=true&theme=radical" alt="rishuvro" /> </p>
 
-<p align="center"> <a href="https://activity-graph.herokuapp.com/graph?username=rishuvro"><img src="https://activity-graph.herokuapp.com/graph?username=rishuvro" alt="Rakibul Islam's GitHub Activity Graph" /></a> </p>
+<p align="center"> <a href="https://activity-graph.herokuapp.com/graph?username=rishuvro"><img src="https://activity-graph.herokuapp.com/graph?username=rishuvro" alt="rishuvro" /></a> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishuvro&layout=compact" alt="Languages Used" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rishuvro" alt="GitHub Trophies" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishuvro&show_icons=true&theme=radical" alt="Contributions in the Last Year" /> </p>
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -48,24 +45,33 @@ Here are some of my projects:
 - **Email**: rakibulislamshuvro@gmail.com
 - **Mobile**: +8801727688491
 
-### 🌐 Social Media:
 
+<h3 align="center">🌐 Social Media:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/rishuvro/"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" /></a>
 <a href="https://www.researchgate.net/profile/Rakibul-Islam-97"><img align="center" src="https://img.icons8.com/windows/32/000000/researchgate.png" alt="ResearchGate" /></a>
 <a href="https://www.facebook.com/1amrakibulislam/"><img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" /></a>
 <a href="https://twitter.com/rishuvro"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" /></a>
 <a href="https://www.kaggle.com/rishuvro"><img align="center" src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" /></a>
 <a href="https://sites.google.com/view/rakibulislamshuvro"><img align="center" src="https://img.icons8.com/color/48/000000/google-sites.png" alt="Google Sites" /></a>
+</p>
 
-### 🛠️ Languages and Tools:
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-<img src="https://img.icons8.com/officexs/16/000000/php-logo.png" alt="PHP" />
+<hr>
+<h3 align="center">🛠️ Languages and Tools:</h3>
+<p align="center">
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&emsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&emsp;
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&emsp;
+<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>&emsp;
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&emsp;
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>&emsp;
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&emsp;
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://seeklogo.com/images/1/net-logo-681E247422-seeklogo.com.png" alt="asp.net" width="40" height="40"/> </a>&emsp;
+</p>
 
-### 📈 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishuvro&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rishuvro&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishuvro)
+<hr>
+<h3 align="center">📈 GitHub Stats:</h3>
+<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishuvro&theme=monokai" alt="rishuvro" /></p>
+<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishuvro'&theme=monokai" alt="rishuvro" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishuvro'&theme=monokai" alt="rishuvro" /></p>
+<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishuvro&theme=monokai" alt="rishuvro" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishuvro'&theme=monokai" alt="rishuvro" />
+</p>
