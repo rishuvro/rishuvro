@@ -56,9 +56,8 @@ Here are some of my projects:
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>&emsp;
 </p>
 
-
-
 <hr>
+
 <h3 align="center">📈 GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishuvro&theme=monokai" alt="rishuvro" />
@@ -74,3 +73,12 @@ Here are some of my projects:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishuvro&layout=compact&theme=dark" alt="Languages Used" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=rishuvro&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishuvro" alt="GitHub Streak" />
+</p>
+
+
+
