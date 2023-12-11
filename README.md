@@ -2,7 +2,7 @@
 
 I'm a BSC student in CSE at Southeast University, Dhaka. Welcome to my GitHub, where you can explore my projects and interests.
 
-## ```About Me
+## ```About Me```
 
 
 - 🌱 I’m currently studying BSC in CSE.
