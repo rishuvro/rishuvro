@@ -11,9 +11,10 @@ I'm a BSC student in CSE at Southeast University, Dhaka.
 - 📫 You can reach me at: rakibulislamshuvro@gmail.com | +8801727688491
 
 
-## Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishuvro&color=ff69b4" alt="Profile views" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=rishuvro&color=blueviolet)
 
 ## Projects
 
