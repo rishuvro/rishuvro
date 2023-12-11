@@ -71,7 +71,15 @@ Here are some of my projects:
 
 <hr>
 <h3 align="center">📈 GitHub Stats:</h3>
-<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishuvro&theme=monokai" alt="rishuvro" /></p>
-<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishuvro'&theme=monokai" alt="rishuvro" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishuvro'&theme=monokai" alt="rishuvro" /></p>
-<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishuvro&theme=monokai" alt="rishuvro" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishuvro'&theme=monokai" alt="rishuvro" />
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishuvro&theme=monokai" alt="rishuvro" />
 </p>
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishuvro&theme=monokai" alt="rishuvro" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishuvro&theme=monokai" alt="rishuvro" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishuvro&theme=monokai" alt="rishuvro" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishuvro&theme=monokai" alt="rishuvro" />
+</p>
+
