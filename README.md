@@ -10,6 +10,11 @@ I'm a BSC student in CSE at Southeast University, Dhaka.
 - 💼 Skilled in AI, deep learning, machine learning, image processing, computer networking, web programming, and programming languages.
 - 📫 You can reach me at: rakibulislamshuvro@gmail.com | +8801727688491
 
+
+## Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=rishuvro&color=blueviolet)
+
 ## Projects
 
 Here are some of my projects:
