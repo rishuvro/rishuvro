@@ -40,9 +40,6 @@ Here are some of my projects:
 <a href="https://www.researchgate.net/profile/Rakibul-Islam-97"><img align="center" src="https://img.icons8.com/windows/32/000000/researchgate.png" alt="ResearchGate" /></a>
 <a href="https://www.facebook.com/1amrakibulislam/"><img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" /></a>
 <a href="https://twitter.com/rishuvro"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" /></a>
- <a href="https://www.kaggle.com/rishuvro">
-    <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" />
-  </a>
 <a href="https://sites.google.com/view/rakibulislamshuvro"><img align="center" src="https://img.icons8.com/color/48/000000/google-sites.png" alt="Google Sites" /></a>
 </p>
 
