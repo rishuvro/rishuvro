@@ -2,18 +2,6 @@
 
 I'm a BSC student in CSE at Southeast University, Dhaka. Welcome to my GitHub, where you can explore my projects and interests.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishuvro" alt="rishuvro" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishuvro&show_icons=true&theme=radical" alt="rishuvro" /> </p>
-
-<p align="center"> <a href="https://activity-graph.herokuapp.com/graph?username=rishuvro"><img src="https://activity-graph.herokuapp.com/graph?username=rishuvro" alt="rishuvro" /></a> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishuvro&layout=compact" alt="Languages Used" /> </p>
-
-
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## About Me
 
@@ -82,4 +70,7 @@ Here are some of my projects:
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishuvro&theme=monokai" alt="rishuvro" />
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishuvro&theme=monokai" alt="rishuvro" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishuvro&layout=compact&theme=dark" alt="Languages Used" />
 </p>
