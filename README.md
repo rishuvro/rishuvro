@@ -2,13 +2,13 @@
 
 I'm a BSC student in CSE at Southeast University, Dhaka. Welcome to my GitHub, where you can explore my projects and interests.
 
-
+---
 ## About Me
 
 - 🌱 I’m currently studying BSC in CSE.
 - 💼 Skilled in AI, deep learning, machine learning, image processing, computer networking, web programming, and multiple programming languages.
 - 📫 You can reach me at: rakibulislamshuvro@gmail.com | +8801727688491
-
+---
 ## Projects
 
 Here are some of my projects:
