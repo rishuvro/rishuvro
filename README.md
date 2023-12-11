@@ -1,5 +1,4 @@
-# Hey there, 
-```I'm Rakibul Islam!``` 👋
+# Hey there, ```I'm Rakibul Islam!``` 👋
 
 ## 🚀 Crafting Intelligent Solutions | AI Enthusiast | Tech Evangelist
 
