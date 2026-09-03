@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" width="100%" alt="Rakibul Islam — Operations, Growth and Technology">
+  <img src="./assets/profile-banner.gif" width="100%" alt="Rakibul Islam — Operations, Growth and Technology">
 </p>
 
 <p align="center">
@@ -7,6 +7,10 @@
   <a href="https://www.linkedin.com/in/rishuvro"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=8-ZX2LYAAAAJ"><img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-RESEARCH-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
   <a href="mailto:rakibulislamshuvro@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-B39252?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=55D6D9&center=true&vCenter=true&width=850&lines=IT+Manager+%7C+Business+Operations+%7C+Digital+Growth;Building+software+around+real+operations;Laravel+%2F+PHP+%2F+MySQL+%2F+AI%2FML;Operate+%E2%86%92+Grow+%E2%86%92+Build+%E2%86%92+Research" alt="Typing intro">
 </p>
 
 <h1 align="center">Rakibul Islam</h1>
@@ -17,87 +21,45 @@
 </p>
 
 <p align="center">
-  <code>OPERATIONS</code> × <code>GROWTH</code> × <code>SYSTEMS</code> × <code>RESEARCH</code>
+  <img src="./assets/operating-model.gif" width="100%" alt="Operate Grow Build Research">
 </p>
 
 ---
 
-## 01 / Operating Model
+## ⚡ Current Mode
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="55%" valign="top">
 
-### 01 — Operate
-Turn complexity into repeatable workflow.
-
-`Planning` `SOPs` `Reporting` `Coordination`
-
-</td>
-<td width="25%" valign="top">
-
-### 02 — Grow
-Connect visibility, acquisition and measurement.
-
-`SEO` `Google Ads` `Meta` `Lead Gen`
-
-</td>
-<td width="25%" valign="top">
-
-### 03 — Build
-Make technology fit the operation.
-
-`Laravel` `PHP` `MySQL` `RBAC`
-
-</td>
-<td width="25%" valign="top">
-
-### 04 — Research
-Test ideas with data and evidence.
-
-`AI/ML` `Data` `Research` `Review`
-
-</td>
-</tr>
-</table>
-
-> I work where **business execution, digital performance and software systems overlap** — so decisions are not separated from the tools and data that support them.
-
----
-
-## 02 / Flagship Build
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### 🏥 Evolved Clinic Management Platform
-**Production operational system · Clinic workflows**
-
-A live operational layer connecting patients, appointments, billing, stock, reporting, access control and day-to-day clinic workflows.
-
-**What I work across**
-- Patient and appointment workflows
-- Billing, expenses and inventory
-- Role-based access control and auditability
-- Operational reporting and workflow checks
-- Troubleshooting, implementation and user adoption
-
-`PHP / Laravel` `MySQL` `RBAC` `Audit Logs` `Business Workflow`
-
-[**View live system →**](https://myevolvedcms.com/) · [**Portfolio case study →**](https://rishuvro.github.io/#projects)
-
-</td>
-<td width="42%" valign="top">
-
-### Current Signal
-
-**IT Manager · Business Operations & Digital Growth**  
-Evolved Aesthetics Clinic · Dhaka
+### 🏥 Evolved Aesthetics Clinic
+**IT Manager · Business Operations & Digital Growth**
 
 I work across the clinic's operating layer — connecting internal systems, reporting, patient workflows, digital acquisition and everyday technology execution.
 
-**Operate → Grow → Build**
+**What that means in practice**
+- internal software and operational systems
+- reporting and workflow accuracy
+- SEO, Google Ads and Meta performance
+- CRM / patient-flow / appointment operations
+- troubleshooting and process improvement
+
+</td>
+<td width="45%" valign="top">
+
+### 🔴 LIVE SIGNAL
+
+```text
+STATUS    : BUILDING
+LOCATION  : DHAKA, BD
+FOCUS     : SYSTEMS + PERFORMANCE
+STACK     : PHP / LARAVEL / MYSQL
+RESEARCH  : AI / RECOMMENDERS / DATA
+MODE      : OPERATE → GROW → BUILD
+```
+
+[Portfolio →](https://rishuvro.github.io/)  
+[All repositories →](https://github.com/rishuvro?tab=repositories)
 
 </td>
 </tr>
@@ -105,28 +67,77 @@ I work across the clinic's operating layer — connecting internal systems, repo
 
 ---
 
-## 03 / Selected Systems & Projects
+## ◈ Flagship System
+
+### Evolved Clinic Management Platform
+**Production operational software · Clinic workflow infrastructure**
+
+> A live operational layer connecting patient management, appointments, billing, stock, reporting, role-based access and day-to-day clinic workflows.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**PATIENT OPS**
+
+Appointments  
+Treatment workflow  
+Patient records  
+Operational tracking
+
+</td>
+<td width="33%" valign="top">
+
+**BUSINESS OPS**
+
+Billing  
+Expenses  
+Inventory  
+Reporting
+
+</td>
+<td width="33%" valign="top">
+
+**SYSTEMS**
+
+Laravel / PHP  
+MySQL  
+RBAC  
+Auditability
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://myevolvedcms.com/"><img src="https://img.shields.io/badge/LIVE_SYSTEM-OPEN-55D6D9?style=for-the-badge&logo=vercel&logoColor=111827"></a>
+  <a href="https://rishuvro.github.io/#projects"><img src="https://img.shields.io/badge/CASE_STUDY-PORTFOLIO-B39252?style=for-the-badge&logo=readme&logoColor=white"></a>
+</p>
+
+---
+
+## ◈ Selected Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📦 Maitri Tally — POS & Inventory
-Billing, inventory and showroom-reporting workflows connected to day-to-day sales operations.
+Billing, inventory and showroom-reporting workflows connected to real sales operations.
 
 `Laravel` `PHP` `MySQL` `JavaScript`
 
-[Explore in portfolio →](https://rishuvro.github.io/#projects)
+[Explore →](https://rishuvro.github.io/#projects)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 SDS TechMed
-B2B supplier website designed for credibility, structured services and lead capture.
+B2B supplier website focused on credibility, structured services and lead capture.
 
 `PHP` `Laravel` `Tailwind` `Hosting`
 
-[Live project →](https://sdstechmed.com/) · [Repository →](https://github.com/rishuvro/sdstechmed)
+[Live →](https://sdstechmed.com/) · [Repository →](https://github.com/rishuvro/sdstechmed)
 
 </td>
 </tr>
@@ -134,7 +145,7 @@ B2B supplier website designed for credibility, structured services and lead capt
 <td width="50%" valign="top">
 
 ### 🫀 Heart Disease Prediction
-Machine-learning project focused on predictive classification.
+Machine-learning classification project for predictive analysis.
 
 `Python` `Jupyter` `Machine Learning`
 
@@ -156,7 +167,7 @@ Arduino-based automatic dispensing system using embedded-control logic.
 <td width="50%" valign="top">
 
 ### 🖥️ System Monitor
-Python utility for monitoring CPU and memory usage.
+Python utility for CPU and memory monitoring.
 
 `Python` `System Monitoring`
 
@@ -166,7 +177,7 @@ Python utility for monitoring CPU and memory usage.
 <td width="50%" valign="top">
 
 ### 🏙️ City of Gold — OpenGL
-Computer-graphics project built with OpenGL and GLUT.
+Computer-graphics project created with OpenGL and GLUT.
 
 `C++` `OpenGL` `GLUT`
 
@@ -176,68 +187,75 @@ Computer-graphics project built with OpenGL and GLUT.
 </tr>
 </table>
 
-<p align="center">
-<a href="https://github.com/rishuvro?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://rishuvro.github.io/#projects"><img src="https://img.shields.io/badge/VIEW_SELECTED_WORK-B39252?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
+---
+
+## ◈ Experience Timeline
+
+```text
+NOW        EVOLVED AESTHETICS CLINIC
+           IT Manager · Business Operations & Digital Growth
+
+2024–25    SPST · MINISTRY OF SOCIAL WELFARE
+           Business Operations · Digital Growth · IT
+
+2024       NONAGON INFOLYTIC · REMOTE
+           Software Engineer · Laravel / PHP / MySQL
+
+2023–24    ICEBREAKERS LTD.
+           Support Engineer · Enterprise Support
+```
+
+[Full experience →](https://rishuvro.github.io/#experience)
 
 ---
 
-## 04 / Experience
-
-| Period | Role | Organization | Focus |
-|---|---|---|---|
-| **Now** | **IT Manager · Business Operations & Digital Growth** | **Evolved Aesthetics Clinic** | Operations, digital acquisition, clinic systems, reporting |
-| **2024–2025** | Business Operations, Digital Growth & IT Officer | SPST · Ministry of Social Welfare | Public-sector operations, reporting, digital, IT |
-| **2024** | Software Engineer · Remote | Nonagon Infolytic | Laravel/PHP, MySQL, validation, REST APIs |
-| **2023–2024** | Support Engineer | Icebreakers Ltd. | Enterprise support, troubleshooting, documentation |
-
-[**Full experience →**](https://rishuvro.github.io/#experience)
-
----
-
-## 05 / Research + Recognition
+## ◈ Research / Academic Signal
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-### 📄 IEEE Publication — ICECET 2024
+### 📄 IEEE · ICECET 2024
 **Hybrid Recommendation Systems using Adaptive Clustering to address Cold Start Problems**
 
-Conference research exploring adaptive clustering for recommendation-system cold-start problems.
+Research focused on recommendation systems and adaptive clustering.
 
-**DOI:** `10.1109/ICECET61485.2024.10698666`
+`DOI: 10.1109/ICECET61485.2024.10698666`
 
-[Google Scholar →](https://scholar.google.com/citations?hl=en&user=8-ZX2LYAAAAJ) · [ResearchGate →](https://www.researchgate.net/profile/Rakibul-Islam-97)
+[Google Scholar →](https://scholar.google.com/citations?hl=en&user=8-ZX2LYAAAAJ)  
+[ResearchGate →](https://www.researchgate.net/profile/Rakibul-Islam-97)
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
 ### 🌍 ICCSC 2026 · Fez, Morocco
-Conference service across scientific/review and organizing activities for the International Conference on Circuit, Systems and Communication.
+Conference service across scientific/review and organizing activities.
 
-`Scientific Service` `Research Review` `Organization`
-
-[Research profile →](https://rishuvro.github.io/#research)
+`Scientific Service`  
+`Research Review`  
+`Organization`
 
 </td>
 </tr>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ### 📊 Open Research Data
 **Dhaka Stock Exchange Historical Data**
 
-Public dataset prepared for research and historical market analysis.
+`DOI: 10.17632/23553sm4tn.3`
 
-**DOI:** `10.17632/23553sm4tn.3`
+Prepared for public research and historical market analysis.
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-### 🔬 Research Direction
-Recommendation systems · Applied AI · Computer vision · Intelligent business systems · Data-driven operations
+### 🎓 Education
+**MSc in ICT — Ongoing**  
+Bangladesh University of Professionals
+
+**BSc in CSE — Completed**  
+Southeast University
 
 </td>
 </tr>
@@ -245,42 +263,63 @@ Recommendation systems · Applied AI · Computer vision · Intelligent business 
 
 ---
 
-## 06 / Capability Map
+## ◈ Capability Matrix
 
-### Operations
-`Operational Planning` · `Workflow Coordination` · `Process Improvement` · `Documentation` · `SOPs` · `Reporting`
+<table>
+<tr>
+<td width="25%" valign="top">
 
-### Growth
-`SEO` · `Google Ads` · `Meta Ads` · `Lead Generation` · `Landing Pages` · `Analytics` · `Search Console`
+### OPERATIONS
+Planning  
+Workflow  
+SOPs  
+Reporting  
+Coordination
 
-### Technology
-`PHP` · `Laravel` · `JavaScript` · `MySQL` · `REST APIs` · `Admin Panels` · `CRM / POS / Inventory` · `Linux`
+</td>
+<td width="25%" valign="top">
 
-### AI / Data
-`Python` · `scikit-learn` · `TensorFlow` · `Keras` · `PyTorch` · `pandas` · `NumPy` · `Jupyter`
+### GROWTH
+SEO  
+Google Ads  
+Meta Ads  
+Lead Gen  
+Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,python,linux,git,github,tensorflow,sklearn,arduino&theme=dark" alt="Technology stack">
+</td>
+<td width="25%" valign="top">
+
+### SYSTEMS
+Laravel  
+PHP  
+MySQL  
+REST APIs  
+Linux
+
+</td>
+<td width="25%" valign="top">
+
+### AI / DATA
+Python  
+TensorFlow  
+scikit-learn  
+pandas  
+Jupyter
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,python,linux,git,github,tensorflow,sklearn,arduino,vscode&theme=dark" alt="Technology stack">
 </p>
 
 ---
 
-## 07 / Education
-
-**MSc in Information & Communication Technology**  
-Bangladesh University of Professionals (BUP) · Dhaka · **Ongoing**
-
-**BSc in Computer Science & Engineering**  
-Southeast University · Dhaka · **Completed**
-
-> Computer Science → Applied Systems → ICT Research
-
----
-
-## 08 / GitHub Signal
+## ◈ GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishuvro&theme=github_dark" width="100%" alt="GitHub profile details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishuvro&theme=github_dark" width="100%" alt="GitHub activity">
 </p>
 
 <p align="center">
@@ -288,18 +327,21 @@ Southeast University · Dhaka · **Completed**
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishuvro&theme=github_dark" width="49%" alt="GitHub stats">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishuvro&theme=github-dark-blue&hide_border=true&background=0D1117" width="65%" alt="GitHub streak">
+</p>
+
 ---
 
-## 09 / Connect
+## ◈ Connect / Explore
 
 <p align="center">
-  <a href="https://rishuvro.github.io/"><img src="https://img.shields.io/badge/Portfolio-rishuvro.github.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rishuvro"><img src="https://img.shields.io/badge/LinkedIn-Rakibul_Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://rishuvro.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-rishuvro.github.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rishuvro"><img src="https://img.shields.io/badge/LINKEDIN-Rakibul_Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://orcid.org/0009-0004-0055-9928"><img src="https://img.shields.io/badge/ORCID-0009--0004--0055--9928-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
-  <a href="mailto:rakibulislamshuvro@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-B39252?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:rakibulislamshuvro@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's_Talk-B39252?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <strong>OPERATE → GROW → BUILD → RESEARCH</strong><br>
-  <sub>Dhaka, Bangladesh · Building systems around real operations.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=700&color=B39252&center=true&vCenter=true&width=720&lines=OPERATE+%E2%86%92+GROW+%E2%86%92+BUILD+%E2%86%92+RESEARCH;Systems+around+real+operations.;Dhaka%2C+Bangladesh." alt="Footer typing animation">
 </p>
