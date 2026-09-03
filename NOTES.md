@@ -1,19 +1,23 @@
-# V4 direction
+# V5 Dazzle
 
-This version intentionally removes most of the flashy README effects.
+This version intentionally adds more visual energy than V4.
 
-Why:
-- The previous live profile had too many simultaneous visual elements.
-- The GIF hero, typing line, second GIF, badge rows, tables, terminal block and stats all competed with each other.
-- GitHub itself already has a busy UI, so the README needs breathing room.
+Includes:
+- animated aurora hero
+- orbiting particles
+- moving graph signal
+- animated chip states
+- scanline effect
+- animated signal divider
+- animated systems orbit
+- more icons and visual markers
+- richer badge system
+- colorful but controlled cyan / violet / champagne palette
+- typing animations
+- dynamic GitHub stats and streak cards
 
-V4 uses:
-- one refined static hero
-- one subtle typing animation
-- one very small animated signal strip
-- clean text links instead of giant badge rows
-- four featured projects only
-- concise experience and research sections
-- two GitHub cards instead of many duplicate stats
-
-Upload README.md and the assets folder into rishuvro/rishuvro.
+Upload:
+README.md
+assets/hero-dazzle.gif
+assets/signal-rail.gif
+assets/systems-orbit.gif
