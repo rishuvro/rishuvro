@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-dazzle.gif" width="100%" alt="Rakibul Islam — Systems, Growth and Technology">
+  <img src="./hero-dazzle.gif" width="100%" alt="Rakibul Islam — Systems, Growth and Technology">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/signal-rail.gif" width="100%" alt="Operations growth systems research">
+  <img src=".signal-rail.gif" width="100%" alt="Operations growth systems research">
 </p>
 
 ## ✦ About Me
@@ -35,7 +35,7 @@ My goal is simple:
 <td width="38%" valign="top">
 
 <p align="center">
-  <img src="./assets/systems-orbit.gif" width="100%" alt="Systems orbit animation">
+  <img src="./systems-orbit.gif" width="100%" alt="Systems orbit animation">
 </p>
 
 </td>
