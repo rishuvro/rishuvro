@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300">
+    <stop stop-color="#090D14"/>
+    <stop offset=".52" stop-color="#111827"/>
+    <stop offset="1" stop-color="#0A0D12"/>
+  </linearGradient>
+  <linearGradient id="line" x1="660" y1="55" x2="1130" y2="250">
+    <stop stop-color="#67E8F9"/>
+    <stop offset=".48" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#F5D98D"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop stop-color="#22D3EE" stop-opacity=".24"/>
+    <stop offset=".5" stop-color="#7C3AED" stop-opacity=".09"/>
+    <stop offset="1" stop-color="#090D14" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="298" rx="27" stroke="#FFFFFF" stroke-opacity=".07" stroke-width="2"/>
+<ellipse cx="1000" cy="94" rx="330" ry="220" fill="url(#glow)"/>
+<g opacity=".22">
+  <path d="M0 75H1200M0 150H1200M0 225H1200" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <path d="M300 0V300M600 0V300M900 0V300" stroke="#FFFFFF" stroke-opacity=".06"/>
+</g>
+<path d="M710 255C786 199 842 197 909 163C985 125 1043 80 1136 46" stroke="url(#line)" stroke-opacity=".55" stroke-width="1.5"/>
+<circle cx="1034" cy="81" r="86" stroke="#67E8F9" stroke-opacity=".12"/>
+<circle cx="1034" cy="81" r="54" stroke="#F5D98D" stroke-opacity=".14"/>
+<circle cx="1034" cy="81" r="7" fill="#67E8F9" fill-opacity=".8"/>
+<text x="66" y="74" fill="#8B98AA" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="600" letter-spacing="4">RAKIBUL ISLAM · DHAKA</text>
+<text x="66" y="140" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Build systems that make</text>
+<text x="66" y="194" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">operations move better.</text>
+<text x="66" y="241" fill="#B4BECC" font-family="Arial, Helvetica, sans-serif" font-size="16">Software systems · Digital growth · Applied technology · Research</text>
+<text x="1044" y="268" text-anchor="end" fill="#6D7889" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">OPERATE / GROW / BUILD</text>
+</svg>

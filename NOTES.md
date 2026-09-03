@@ -1,26 +1,19 @@
-# V3 — Animated GitHub Profile
+# V4 direction
 
-This version is designed specifically around what GitHub profile READMEs can actually render.
+This version intentionally removes most of the flashy README effects.
 
-## Animation used
-- Local animated GIF hero
-- Local animated operating-model strip
-- Typing SVG at the top and bottom
-- Dynamic GitHub activity cards
-- Dynamic streak card
+Why:
+- The previous live profile had too many simultaneous visual elements.
+- The GIF hero, typing line, second GIF, badge rows, tables, terminal block and stats all competed with each other.
+- GitHub itself already has a busy UI, so the README needs breathing room.
 
-## Visual direction
-- Dark executive / cyber-premium
-- Navy, champagne gold and electric cyan
-- Dashboard-like hierarchy
-- Strong monospace terminal blocks
-- Less emoji-heavy than typical GitHub profiles
-- Portfolio positioning integrated into GitHub
+V4 uses:
+- one refined static hero
+- one subtle typing animation
+- one very small animated signal strip
+- clean text links instead of giant badge rows
+- four featured projects only
+- concise experience and research sections
+- two GitHub cards instead of many duplicate stats
 
-## Upload
-Put these into `rishuvro/rishuvro`:
-- `README.md`
-- `assets/profile-banner.gif`
-- `assets/operating-model.gif`
-
-The profile repository integration available in ChatGPT is currently read-only for writes, so publish these files manually.
+Upload README.md and the assets folder into rishuvro/rishuvro.
