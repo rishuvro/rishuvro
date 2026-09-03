@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Rakibul Islam — Software, Systems and Intelligence" width="100%">
+  <img src="./profile-banner.svg" alt="Rakibul Islam — Software, Systems and Intelligence" width="100%">
 </p>
 
 <p align="center">
