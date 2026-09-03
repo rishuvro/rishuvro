@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Rakibul Islam — Software systems, digital growth and applied technology">
+  <img src="./hero.svg" width="100%" alt="Rakibul Islam — Software systems, digital growth and applied technology">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ Currently, I’m focused on building and improving operational systems for real 
 I care less about building software for its own sake and more about building systems that are **useful, measurable and maintainable**.
 
 <p align="center">
-  <img src="./assets/signal.gif" width="100%" alt="Operations growth systems research">
+  <img src="./signal.gif" width="100%" alt="Operations growth systems research">
 </p>
 
 ---
